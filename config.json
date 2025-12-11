@@ -1,0 +1,31 @@
+{
+  "default": {
+    "welcome_channel": null,
+    "auto_roles": [],
+    "goodbye_channel": null,
+    "welcome_message": null,
+    "goodbye_message": null
+  },
+  "1431383760808579132": {
+    "welcome_channel": 1431904277239955548,
+    "auto_roles": [
+      1431900887516840037,
+      1431900830293954731
+    ],
+    "goodbye_channel": 1431905260099604611,
+    "welcome_message": "Bienvenue {user.mention}",
+    "goodbye_message": "Au revoir {user.name}"
+  },
+  "1327218600813133854": {
+    "welcome_channel": null,
+    "auto_roles": [
+      1401130860719378543,
+      1401135391595167764,
+      1401132851096977489,
+      1401127632963112960
+    ],
+    "goodbye_channel": null,
+    "welcome_message": null,
+    "goodbye_message": null
+  }
+}
